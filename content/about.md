@@ -12,7 +12,7 @@ I'm studying ICT and have a deep interest in computer science.
 
 To pass time I read manga, program stupid little programs, create bash scripts or find new software to self host.
 
-I plan to share some services to the public and write about some technical stuff.
+I plan to share some services to the public and write about some technical stuff. 
 
 ---
 ### Where to find me?
