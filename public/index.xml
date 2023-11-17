@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>GNU GPL</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://example.com/markdown-syntax-guide/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -35,7 +35,7 @@ Where to find me? Code : Github for most of my projects Steam : I play games (so
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/projects/</guid>
       <description>Project List Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
+VLFS (a game made in godot as a joke) libreoffice calendar (learning python library ) Tower defense SFML (a game made in CPP SFML for uni) This website More coming soon&amp;hellip; Learn more and contribute on GitHub.</description>
     </item>
   </channel>
 </rss>
