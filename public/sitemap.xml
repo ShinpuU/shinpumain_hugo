@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://shinpu.xyz/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://shinpu.xyz/blog/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/markdown/</loc>
+    <loc>https://shinpu.xyz/blog/markdown/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/markdown-syntax-guide/</loc>
+    <loc>https://shinpu.xyz/markdown-syntax-guide/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/syntax/</loc>
+    <loc>https://shinpu.xyz/blog/syntax/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://shinpu.xyz/about/</loc>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://shinpu.xyz/projects/</loc>
   </url>
 </urlset>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shinpu.xyz website</title>
-    <link>https://example.com/</link>
+    <link>https://shinpu.xyz/</link>
     <description>Recent content on shinpu.xyz website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>GNU GPL</copyright>
     <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shinpu.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/markdown-syntax-guide/</link>
+      <link>https://shinpu.xyz/markdown-syntax-guide/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/markdown-syntax-guide/</guid>
+      <guid>https://shinpu.xyz/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://shinpu.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
+      <guid>https://shinpu.xyz/about/</guid>
       <description>Who am I? My online ID is shinpu, I&amp;rsquo;m from Poland 🇵🇱
 I&amp;rsquo;m studying ICT and have a deep interest in computer science.
 To pass time I read manga, program stupid little programs, create bash scripts or find new software to self host.
@@ -31,9 +31,9 @@ Where to find me? Code : Github for most of my projects Steam : I play games (so
     </item>
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://shinpu.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>https://shinpu.xyz/projects/</guid>
       <description>Project List Hugo makes use of a variety of open source projects including:
 VLFS (a game made in godot as a joke) libreoffice calendar (learning python library ) Tower defense SFML (a game made in CPP SFML for uni) This website More coming soon&amp;hellip; Learn more and contribute on GitHub.</description>
     </item>

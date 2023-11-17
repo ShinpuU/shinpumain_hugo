@@ -1,4 +1,4 @@
-#baseURL = 'https://example.org/'
+#baseURL = 'https://shinpu.xyz/'
 #languageCode = 'en-us'
 #title = 'Shinpu site'
 #theme = 'hugo-bearblog'
@@ -6,7 +6,7 @@
 
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://example.com"
+baseURL = "https://shinpu.xyz"
 
 # Name of the theme
 theme = 'hugo-bearblog'
