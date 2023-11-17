@@ -1,5 +1,5 @@
 hugo
-rsync -arP --delete public/* root@raspberrypi:/var/www/html/
+rsync -arP --delete public/* root@raspberrypi:/var/www/html/site
 git add .
 git commit -m "Site update"
 git push
