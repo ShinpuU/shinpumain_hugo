@@ -6,7 +6,7 @@ menu = "main"
 # Project List
 
 
-Hugo makes use of a variety of open source projects including:
+Here are some projects I've wanted to highlight:
 
 * [VLFS](https://github.com/jurando1/vfls) (a game made in godot as a joke)
 * [libreoffice calendar](https://github.com/ShinpuU/libreoffice_calendar) (learning python library )

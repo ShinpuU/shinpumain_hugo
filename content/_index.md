@@ -2,7 +2,7 @@
 
 There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
 
-The site works perfectly on **any** viewing device and it's minimal (Each page is ~5kb).
+This site works perfectly on **any** viewing device and it's minimal (Each page is ~5kb).
 
 ---
 
