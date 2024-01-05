@@ -1,5 +1,5 @@
 hugo
-rsync -arP --delete public/* anon@raspberrypi:/var/www/html/site
+rsync -arP --delete public/* anon@dietpi:/var/www/main
 git add .
 git commit -m "Site update"
 git push

@@ -14,28 +14,21 @@
       <link>https://shinpu.xyz/markdown-syntax-guide/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://shinpu.xyz/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://shinpu.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shinpu.xyz/about/</guid>
-      <description>Who am I? My online ID is shinpu, I&amp;rsquo;m from Poland 🇵🇱
-I&amp;rsquo;m studying ICT and have a deep interest in computer science.
-To pass time I read manga, program stupid little programs, create bash scripts or find new software to self host.
-I plan to share some services to the public and write about some technical stuff.
-Where to find me? Code : Github for most of my projects Steam : I play games (sometimes) Osu : Average 5digit player Anilist : Adding series there when I feel like it Contact information Email: shinpuu@protonmail.</description>
+      <description>Who am I? My online ID is shinpu, I&amp;rsquo;m from Poland 🇵🇱&#xA;I&amp;rsquo;m studying ICT and have a deep interest in computer science.&#xA;To pass time I read manga, program stupid little programs, create bash scripts or find new software to self host.&#xA;I plan to share some services to the public and write about some technical stuff.&#xA;Where to find me? Code : Github for most of my projects Steam : I play games (sometimes) Osu : Average 5digit player Anilist : Adding series there when I feel like it Contact information Email: shinpuu@protonmail.</description>
     </item>
     <item>
       <title>Projects</title>
       <link>https://shinpu.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shinpu.xyz/projects/</guid>
-      <description>Project List Here are some projects I&amp;rsquo;ve wanted to highlight:
-VLFS (a game made in godot as a joke) libreoffice calendar (learning python library ) Tower defense SFML (a game made in CPP SFML for uni) This website More coming soon&amp;hellip; Learn more and contribute on GitHub.</description>
+      <description>Project List Here are some projects I&amp;rsquo;ve wanted to highlight:&#xA;VLFS (a game made in godot as a joke) libreoffice calendar (learning python library ) Tower defense SFML (a game made in CPP SFML for uni) This website More coming soon&amp;hellip; Learn more and contribute on GitHub.</description>
     </item>
   </channel>
 </rss>
